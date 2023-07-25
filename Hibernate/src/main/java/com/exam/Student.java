@@ -14,6 +14,7 @@ public class Student
 	private String email;
 	private long phno;
 	private Name name;
+	private String name1="abc";
 	
 	public int getId() {
 		return id;
